@@ -81,3 +81,26 @@ A Base-16 number system using digits:
 - How to convert from hexadecimal to decimal
   - e.g. 6D = 6*16^1+D*16^0 = 96 + 13 = 109
   - But it’s easier to convert to binary first, than the decimal
+ 
+## Addition to Representing Text
+
+- Each character must be mapped to a unique binary representation
+  - **Character** encoding is the process of assigning numbers to graphical characters
+ 
+***ASCII***
+Standard Character Set: American Standard Code for Information Interchange
+- Original: 7 bits - 128 unique characters
+- Extended: 8 bits - 256 unique characters
+  - Different value assign for different character: A=65, a=97
+- But… It’s only enough for English, for characters world wide
+![ASCII-Table-wide svg](https://github.com/user-attachments/assets/2835bdd6-ccce-4725-818b-e44b1972d3e4)
+
+***Unicode***
+- Extending upon ASCII (A is a subset of U)
+- Usually 16 bits per character: 65,536 unique characters or 32 bits
+  - UTF-8: 8, 16, 24 or 32 bits (1 to 4 bytes) to encode 
+    - Very efficient
+  - UTF-16: 16 or 32 bits to encode a character
+  - UTF-32: always requires 32 bits to encode a character.
+    - Significantly larger in size - very not efficient
+
