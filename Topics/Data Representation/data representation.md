@@ -4,12 +4,20 @@ Oct.8th 2024, Mica Wang
 
 ## Summary Poster
 
+Created Oct.6th
+
 ![Computer Science FA - Daisy Mica James](https://github.com/user-attachments/assets/4f52b37d-e53d-4dc6-bb33-fa11e62e9810)
 
 If the picture doesn't display, click [here](https://keystoneacademy-my.sharepoint.com/:i:/g/personal/xuanyi_wang_student_keystoneacademy_cn/ETN0YR1zLbFLmp5TNoHWxO4BX2HYDn5-vuUS2G5pAK9uvg?e=7ylgDZ)
 
 ## Intro
 
+***Character Building***
+[Key Values.pdf](https://github.com/user-attachments/files/17301454/Key.Values.pdf)
+
+Created Sept.5th
+
+Intro to data Representation
 Computers are multimedia devices that deal with a vast array of information categories
 It *stores, presents, and modifies*:
 - Numbers, and
